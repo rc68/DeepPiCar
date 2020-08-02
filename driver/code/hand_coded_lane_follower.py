@@ -4,9 +4,20 @@ import logging
 import math
 import datetime
 import sys
+import os.path
 
 _SHOW_IMAGE = False
 
+# create log file
+log_flag = True
+log_count = 1
+
+while log_flag:
+	if not os.path.isfile('logs/log_file' + str(log_count) + '.txt'):
+		log_history = open('logs/log_file' + str(log_count) + '.txt', "w")
+		log_flag = False
+	else:
+		log_count += 1
 
 class HandCodedLaneFollower(object):
 
@@ -68,7 +79,7 @@ def detect_edges(frame):
     # filter for blue lane lines
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     show_image("hsv", hsv)
-    lower_blue = np.array([30, 40, 0])
+    lower_blue = np.array([30, 80, 20])
     upper_blue = np.array([150, 255, 255])
     mask = cv2.inRange(hsv, lower_blue, upper_blue)
     show_image("blue mask", mask)
@@ -77,6 +88,20 @@ def detect_edges(frame):
     edges = cv2.Canny(mask, 200, 400)
 
     return edges
+
+# def detect_edges(frame):
+#     # filter for blue lane lines
+#     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+#     show_image("hsv", hsv)
+#     lower_blue = np.array([30, 40, 0])
+#     upper_blue = np.array([150, 255, 255])
+#     mask = cv2.inRange(hsv, lower_blue, upper_blue)
+#     show_image("blue mask", mask)
+# 
+#     # detect edges
+#     edges = cv2.Canny(mask, 200, 400)
+# 
+#     return edges
 
 def detect_edges_old(frame):
     # filter for blue lane lines
@@ -125,7 +150,7 @@ def detect_line_segments(cropped_edges):
     rho = 1  # precision in pixel, i.e. 1 pixel
     angle = np.pi / 180  # degree in radian, i.e. 1 degree
     min_threshold = 10  # minimal of votes
-    line_segments = cv2.HoughLinesP(cropped_edges, rho, angle, min_threshold, np.array([]), minLineLength=8,
+    line_segments = cv2.HoughLinesP(cropped_edges, rho, angle, min_threshold, np.array([]), minLineLength=25,
                                     maxLineGap=4)
 
     if line_segments is not None:
@@ -163,10 +188,11 @@ def average_slope_intercept(frame, line_segments):
             fit = np.polyfit((x1, x2), (y1, y2), 1)
             slope = fit[0]
             intercept = fit[1]
-            if slope < 0:
+            log_history.write(datetime.datetime.now().strftime("%H:%M:%S") + " slope: " + str(slope) + "\n")
+            if slope < 0.85:
                 if x1 < left_region_boundary and x2 < left_region_boundary:
                     left_fit.append((slope, intercept))
-            else:
+            if slope > -0.85:
                 if x1 > right_region_boundary and x2 > right_region_boundary:
                     right_fit.append((slope, intercept))
 
@@ -281,7 +307,7 @@ def length_of_line_segment(line):
 
 def show_image(title, frame, show=_SHOW_IMAGE):
     if show:
-        cv2.imshow(title, frame)
+    	cv2.imshow(title, frame)
 
 
 def make_points(frame, line):
@@ -291,6 +317,8 @@ def make_points(frame, line):
     y2 = int(y1 * 1 / 2)  # make points from middle of the frame down
 
     # bound the coordinates within the frame
+    if slope == 0:
+    	slope = 0.0001 
     x1 = max(-width, min(2 * width, int((y1 - intercept) / slope)))
     x2 = max(-width, min(2 * width, int((y2 - intercept) / slope)))
     return [[x1, y1, x2, y2]]

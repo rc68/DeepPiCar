@@ -1,0 +1,69 @@
+15:30:38 new steering: 8, stabilized steering: 89, difference: 81 
+15:30:39 slope difference: 0.06345813433085068
+15:30:39 new steering: 94, stabilized steering: 94, difference: 0 
+15:30:40 slope difference: 0.047977941176470584
+15:30:40 new steering: 98, stabilized steering: 98, difference: 0 
+15:30:40 slope difference: 0.046051892620464996
+15:30:40 new steering: 81, stabilized steering: 93, difference: 12 
+15:30:41 slope difference: 0.06229353468617274
+15:30:41 new steering: 97, stabilized steering: 97, difference: 0 
+15:30:41 slope difference: 0.11731341706152787
+15:30:41 new steering: 111, stabilized steering: 102, difference: 9 
+15:30:41 new steering: 37, stabilized steering: 101, difference: 64 
+15:30:42 new steering: 14, stabilized steering: 100, difference: 86 
+15:30:42 new steering: 13, stabilized steering: 99, difference: 86 
+15:30:43 new steering: 11, stabilized steering: 98, difference: 87 
+15:30:44 new steering: 8, stabilized steering: 97, difference: 89 
+15:30:44 new steering: 49, stabilized steering: 96, difference: 47 
+15:30:45 new steering: 18, stabilized steering: 95, difference: 77 
+15:30:45 new steering: 8, stabilized steering: 94, difference: 86 
+15:30:45 new steering: 10, stabilized steering: 93, difference: 83 
+15:30:46 new steering: 8, stabilized steering: 92, difference: 84 
+15:30:46 slope difference: 1.4241086587436333
+15:30:46 new steering: 32, stabilized steering: 87, difference: 55 
+15:30:46 new steering: 8, stabilized steering: 86, difference: 78 
+15:30:46 new steering: 8, stabilized steering: 85, difference: 77 
+15:30:46 new steering: 8, stabilized steering: 84, difference: 76 
+15:30:47 slope difference: 0.506578947368421
+15:30:47 new steering: 25, stabilized steering: 79, difference: 54 
+15:30:47 slope difference: 0.5808823529411765
+15:30:47 new steering: 26, stabilized steering: 74, difference: 48 
+15:30:47 slope difference: 1.475
+15:30:47 new steering: 24, stabilized steering: 69, difference: 45 
+15:30:47 new steering: 8, stabilized steering: 68, difference: 60 
+15:30:48 new steering: 20, stabilized steering: 67, difference: 47 
+15:30:48 new steering: 8, stabilized steering: 66, difference: 58 
+15:30:48 new steering: 21, stabilized steering: 65, difference: 44 
+15:30:48 slope difference: 1.4183047981399282
+15:30:48 new steering: 32, stabilized steering: 60, difference: 28 
+15:30:49 new steering: 23, stabilized steering: 59, difference: 36 
+15:30:49 new steering: 8, stabilized steering: 58, difference: 50 
+15:30:50 slope difference: 0.5
+15:30:50 new steering: 25, stabilized steering: 53, difference: 28 
+15:30:50 slope difference: 1.070145585176782
+15:30:50 new steering: 52, stabilized steering: 52, difference: 0 
+15:30:50 slope difference: 1.3887102996013887
+15:30:50 new steering: 23, stabilized steering: 47, difference: 24 
+15:30:50 new steering: 8, stabilized steering: 46, difference: 38 
+15:30:51 slope difference: 0.9415349457246238
+15:30:51 new steering: 44, stabilized steering: 44, difference: 0 
+15:30:51 new steering: 8, stabilized steering: 43, difference: 35 
+15:30:51 new steering: 21, stabilized steering: 42, difference: 21 
+15:30:52 new steering: 8, stabilized steering: 41, difference: 33 
+15:30:52 slope difference: 0.15603044496487117
+15:30:52 new steering: 29, stabilized steering: 36, difference: 7 
+15:30:52 new steering: 10, stabilized steering: 35, difference: 25 
+15:30:53 new steering: 12, stabilized steering: 34, difference: 22 
+15:30:53 slope difference: 1.4539473684210527
+15:30:53 new steering: 24, stabilized steering: 29, difference: 5 
+15:30:53 slope difference: 1.3706481312115115
+15:30:53 new steering: 36, stabilized steering: 34, difference: 2 
+15:30:54 slope difference: 0.4246661101836394
+15:30:54 new steering: 27, stabilized steering: 29, difference: 2 
+15:30:54 new steering: 23, stabilized steering: 28, difference: 5 
+15:30:54 new steering: 8, stabilized steering: 27, difference: 19 
+15:30:54 slope difference: 1.125
+15:30:54 new steering: 24, stabilized steering: 24, difference: 0 
+15:30:55 slope difference: 1.0994897959183674
+15:30:55 new steering: 25, stabilized steering: 25, difference: 0 
+15:30:55 new steering: 8, stabilized steering: 24, difference: 16 

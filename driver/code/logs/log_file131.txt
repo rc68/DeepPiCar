@@ -1,0 +1,3 @@
+18:16:33 slope difference0: 1.5040943334425156
+18:16:33 slope difference: 1.5040943334425156
+18:16:33 new steering: 147, stabilized steering: 95, difference: 52 

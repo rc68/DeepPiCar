@@ -1,0 +1,12 @@
+18:06:33 new steering: 72, stabilized steering: 85, difference: 13 
+18:06:34 new steering: 75, stabilized steering: 80, difference: 5 
+18:06:34 new steering: 80, stabilized steering: 80, difference: 0 
+18:06:34 new steering: 73, stabilized steering: 75, difference: 2 
+18:06:35 new steering: 75, stabilized steering: 75, difference: 0 
+18:06:35 new steering: 68, stabilized steering: 70, difference: 2 
+18:06:35 new steering: 70, stabilized steering: 70, difference: 0 
+18:06:35 new steering: 72, stabilized steering: 72, difference: 0 
+18:06:36 new steering: 79, stabilized steering: 77, difference: 2 
+18:06:36 new steering: 70, stabilized steering: 72, difference: 2 
+18:06:36 new steering: 77, stabilized steering: 77, difference: 0 
+18:06:37 new steering: 85, stabilized steering: 82, difference: 3 

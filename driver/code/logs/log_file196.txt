@@ -1,0 +1,127 @@
+18:19:00 slope: 0.9038461538461526
+18:19:00 # left segments: 0
+18:19:00 # right segments: 0
+
+18:19:01 slope: -7.999999999999987
+18:19:01 # left segments: 0
+18:19:01 # right segments: 0
+
+18:19:01 slope: 0.2999999999999991
+18:19:01 # left segments: 1
+18:19:01 # right segments: 0
+
+18:19:01 slope: 0.2926829268292692
+18:19:01 # left segments: 0
+18:19:01 # right segments: 0
+
+18:19:01 slope: 0.3720930232558149
+18:19:01 # left segments: 1
+18:19:01 # right segments: 0
+
+18:19:01 slope: 0.3478260869565205
+18:19:01 # left segments: 0
+18:19:01 # right segments: 0
+
+18:19:02 slope: 0.6122448979591835
+18:19:02 # left segments: 1
+18:19:02 # right segments: 0
+
+18:19:02 slope: 0.6097560975609748
+18:19:02 # left segments: 1
+18:19:02 # right segments: 0
+
+18:19:02 slope: 0.7272727272727281
+18:19:02 # left segments: 1
+18:19:02 # right segments: 0
+
+18:19:02 slope: 0.7241379310344827
+18:19:02 # left segments: 1
+18:19:02 # right segments: 0
+
+18:19:02 slope: 1.0000000000000016
+18:19:02 # left segments: 1
+18:19:02 # right segments: 0
+
+18:19:03 slope: 0.6862745098039218
+18:19:03 # left segments: 0
+18:19:03 # right segments: 0
+
+18:19:03 slope: -1.448275862068965
+18:19:03 # left segments: 0
+18:19:03 # right segments: 0
+
+18:19:03 slope: 0.7000000000000004
+18:19:03 slope: 0.5952380952380948
+18:19:03 # left segments: 1
+18:19:03 # right segments: 0
+
+18:19:04 slope: -1.484848484848483
+18:19:04 # left segments: 0
+18:19:04 # right segments: 0
+
+18:19:04 slope: 0.690476190476192
+18:19:04 # left segments: 0
+18:19:04 # right segments: 0
+
+18:19:04 slope: -1.7500000000000004
+18:19:04 # left segments: 0
+18:19:04 # right segments: 0
+
+18:19:04 slope: -1.5
+18:19:04 # left segments: 0
+18:19:04 # right segments: 0
+
+18:19:04 slope: -1.1714285714285706
+18:19:04 # left segments: 0
+18:19:04 # right segments: 0
+
+18:19:04 slope: -2.9444444444444535
+18:19:04 # left segments: 0
+18:19:04 # right segments: 1
+
+18:19:05 slope: -2.5294117647058862
+18:19:05 # left segments: 0
+18:19:05 # right segments: 1
+
+18:19:05 slope: -4.6666666666666545
+18:19:05 # left segments: 0
+18:19:05 # right segments: 1
+
+18:19:05 slope: -2.3157894736842106
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:05 slope: -2.0952380952380953
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:05 slope: -2.157894736842111
+18:19:05 slope: 0.39583333333333304
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:05 slope: -1.8846153846153852
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:05 slope: -2.857142857142862
+18:19:05 # left segments: 0
+18:19:05 # right segments: 1
+
+18:19:05 slope: -1.8181818181818195
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:05 slope: -2.28571428571429
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:05 slope: -2.944444444444445
+18:19:05 slope: 0.511627906976744
+18:19:05 # left segments: 0
+18:19:05 # right segments: 0
+
+18:19:06 slope: 0.595238095238095
+18:19:06 # left segments: 1
+18:19:06 # right segments: 0
+

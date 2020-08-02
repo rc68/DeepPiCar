@@ -1,0 +1,717 @@
+18:45:19# left segments: 2
+18:45:19# right segments: 1
+
+18:45:19 slope difference0: 0.40000000000000013
+18:45:19 new steering: 57, stabilized steering: 85, difference: 28 
+18:45:19# left segments: 2
+18:45:19# right segments: 0
+
+18:45:19# left segments: 2
+18:45:19# right segments: 1
+
+18:45:19 slope difference0: 0.3023516237402015
+18:45:19 new steering: 56, stabilized steering: 80, difference: 24 
+18:45:19# left segments: 2
+18:45:19# right segments: 0
+
+18:45:19# left segments: 3
+18:45:19# right segments: 1
+
+18:45:19 slope difference0: 0.44733044733044736
+18:45:19 new steering: 57, stabilized steering: 75, difference: 18 
+18:45:19# left segments: 2
+18:45:19# right segments: 1
+
+18:45:19 slope difference0: 0.3933930147522382
+18:45:19 new steering: 56, stabilized steering: 70, difference: 14 
+18:45:19# left segments: 3
+18:45:19# right segments: 1
+
+18:45:19 slope difference0: 0.5170004657661853
+18:45:19 new steering: 58, stabilized steering: 65, difference: 7 
+18:45:19# left segments: 1
+18:45:19# right segments: 0
+
+18:45:20# left segments: 3
+18:45:20# right segments: 1
+
+18:45:20 slope difference0: 0.02050580997949414
+18:45:20 new steering: 56, stabilized steering: 60, difference: 4 
+18:45:20# left segments: 1
+18:45:20# right segments: 1
+
+18:45:20 slope difference0: 0.0
+18:45:20 new steering: 54, stabilized steering: 55, difference: 1 
+18:45:20# left segments: 1
+18:45:20# right segments: 0
+
+18:45:20# left segments: 3
+18:45:20# right segments: 1
+
+18:45:20 slope difference0: 0.16666666666666674
+18:45:20 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:20# left segments: 2
+18:45:20# right segments: 0
+
+18:45:20# left segments: 3
+18:45:20# right segments: 1
+
+18:45:20 slope difference0: 0.4468718967229395
+18:45:20 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:20# left segments: 1
+18:45:20# right segments: 1
+
+18:45:20 slope difference0: 0.0
+18:45:20 new steering: 53, stabilized steering: 53, difference: 0 
+18:45:20# left segments: 2
+18:45:20# right segments: 0
+
+18:45:20# left segments: 2
+18:45:20# right segments: 0
+
+18:45:20# left segments: 1
+18:45:20# right segments: 0
+
+18:45:20# left segments: 4
+18:45:20# right segments: 1
+
+18:45:20 slope difference0: 0.2456140350877194
+18:45:20 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:20# left segments: 1
+18:45:20# right segments: 0
+
+18:45:21# left segments: 2
+18:45:21# right segments: 0
+
+18:45:21# left segments: 1
+18:45:21# right segments: 0
+
+18:45:21# left segments: 1
+18:45:21# right segments: 1
+
+18:45:21 slope difference0: 0.0
+18:45:21 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:21# left segments: 2
+18:45:21# right segments: 0
+
+18:45:21# left segments: 2
+18:45:21# right segments: 0
+
+18:45:21# left segments: 1
+18:45:21# right segments: 1
+
+18:45:21 slope difference0: 0.0
+18:45:21 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:21# left segments: 1
+18:45:21# right segments: 0
+
+18:45:21# left segments: 1
+18:45:21# right segments: 1
+
+18:45:21 slope difference0: 0.0
+18:45:21 new steering: 53, stabilized steering: 53, difference: 0 
+18:45:21# left segments: 2
+18:45:21# right segments: 1
+
+18:45:21 slope difference0: 0.3933930147522382
+18:45:21 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:21# left segments: 1
+18:45:21# right segments: 0
+
+18:45:21# left segments: 2
+18:45:21# right segments: 1
+
+18:45:21 slope difference0: 0.21818181818181803
+18:45:21 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:21# left segments: 1
+18:45:21# right segments: 0
+
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.2597402597402596
+18:45:22 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:22# left segments: 1
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.0
+18:45:22 new steering: 53, stabilized steering: 53, difference: 0 
+18:45:22# left segments: 1
+18:45:22# right segments: 0
+
+18:45:22# left segments: 1
+18:45:22# right segments: 0
+
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.4024767801857585
+18:45:22 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.23923444976076547
+18:45:22 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:22# left segments: 1
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.0
+18:45:22 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:22# left segments: 1
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.0
+18:45:22 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.48913043478260865
+18:45:22 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.21818181818181803
+18:45:22 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.38197097020626436
+18:45:22 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:22# left segments: 2
+18:45:22# right segments: 1
+
+18:45:22 slope difference0: 0.39560439560439575
+18:45:22 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:23# left segments: 2
+18:45:23# right segments: 0
+
+18:45:23# left segments: 2
+18:45:23# right segments: 1
+
+18:45:23 slope difference0: 0.2818458137607074
+18:45:23 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:23# left segments: 0
+18:45:23# right segments: 0
+
+18:45:23# left segments: 2
+18:45:23# right segments: 0
+
+18:45:23# left segments: 2
+18:45:23# right segments: 0
+
+18:45:23# left segments: 3
+18:45:23# right segments: 1
+
+18:45:23 slope difference0: 0.457452041318249
+18:45:23 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:23# left segments: 3
+18:45:23# right segments: 1
+
+18:45:23 slope difference0: 0.457452041318249
+18:45:23 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:23# left segments: 2
+18:45:23# right segments: 1
+
+18:45:23 slope difference0: 0.4401408450704225
+18:45:23 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:23# left segments: 1
+18:45:23# right segments: 0
+
+18:45:23# left segments: 1
+18:45:23# right segments: 0
+
+18:45:23# left segments: 2
+18:45:23# right segments: 0
+
+18:45:23# left segments: 3
+18:45:23# right segments: 1
+
+18:45:23 slope difference0: 0.43754410726887794
+18:45:23 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:24# left segments: 2
+18:45:24# right segments: 0
+
+18:45:24# left segments: 2
+18:45:24# right segments: 0
+
+18:45:24# left segments: 3
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.457452041318249
+18:45:24 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:24# left segments: 2
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.2818458137607074
+18:45:24 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:24# left segments: 3
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.457452041318249
+18:45:24 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:24# left segments: 3
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.457452041318249
+18:45:24 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:24# left segments: 2
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.35982008995502235
+18:45:24 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:24# left segments: 3
+18:45:24# right segments: 0
+
+18:45:24# left segments: 3
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.4787644787644789
+18:45:24 new steering: 58, stabilized steering: 58, difference: 0 
+18:45:24# left segments: 2
+18:45:24# right segments: 1
+
+18:45:24 slope difference0: 0.2818458137607074
+18:45:24 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:24# left segments: 2
+18:45:24# right segments: 0
+
+18:45:25# left segments: 2
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.2797202797202796
+18:45:25 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:25# left segments: 2
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.3333333333333335
+18:45:25 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:25# left segments: 2
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.2886247877758914
+18:45:25 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:25# left segments: 3
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.523809523809524
+18:45:25 new steering: 58, stabilized steering: 58, difference: 0 
+18:45:25# left segments: 2
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.2886247877758914
+18:45:25 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:25# left segments: 3
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.0
+18:45:25 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:25# left segments: 4
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.22510822510822526
+18:45:25 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:25# left segments: 3
+18:45:25# right segments: 0
+
+18:45:25# left segments: 2
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.3333333333333335
+18:45:25 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:25# left segments: 2
+18:45:25# right segments: 0
+
+18:45:25# left segments: 1
+18:45:25# right segments: 0
+
+18:45:25# left segments: 3
+18:45:25# right segments: 1
+
+18:45:25 slope difference0: 0.01998001998001997
+18:45:25 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:26# left segments: 3
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.44733044733044736
+18:45:26 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:26# left segments: 2
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.4193458205199887
+18:45:26 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:26# left segments: 3
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.09746588693957126
+18:45:26 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:26# left segments: 3
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.07504690431519712
+18:45:26 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:26# left segments: 2
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.22453222453222454
+18:45:26 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:26# left segments: 4
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.234113712374582
+18:45:26 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:26# left segments: 3
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.07696007696007712
+18:45:26 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:26# left segments: 2
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.2525832376578645
+18:45:26 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:26# left segments: 2
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.23923444976076547
+18:45:26 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:26# left segments: 3
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.1401401401401403
+18:45:26 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:26# left segments: 1
+18:45:26# right segments: 0
+
+18:45:26# left segments: 3
+18:45:26# right segments: 1
+
+18:45:26 slope difference0: 0.11553273427471122
+18:45:26 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:27# left segments: 3
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.09267840593141807
+18:45:27 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:27# left segments: 2
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.23260321767784453
+18:45:27 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:27# left segments: 2
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.2597402597402596
+18:45:27 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:27# left segments: 2
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.3333333333333335
+18:45:27 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:27# left segments: 2
+18:45:27# right segments: 0
+
+18:45:27# left segments: 3
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.4169662113587349
+18:45:27 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:27# left segments: 2
+18:45:27# right segments: 0
+
+18:45:27# left segments: 3
+18:45:27# right segments: 0
+
+18:45:27# left segments: 2
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.2818458137607074
+18:45:27 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:27# left segments: 3
+18:45:27# right segments: 0
+
+18:45:27# left segments: 3
+18:45:27# right segments: 1
+
+18:45:27 slope difference0: 0.03945421666940652
+18:45:27 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:28# left segments: 3
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.03945421666940652
+18:45:28 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:28# left segments: 2
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.2618657937806874
+18:45:28 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:28# left segments: 2
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.42283298097251576
+18:45:28 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:28# left segments: 3
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.4571428571428573
+18:45:28 new steering: 58, stabilized steering: 58, difference: 0 
+18:45:28# left segments: 3
+18:45:28# right segments: 0
+
+18:45:28# left segments: 3
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.47850467289719645
+18:45:28 new steering: 58, stabilized steering: 58, difference: 0 
+18:45:28# left segments: 2
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.31727379553466517
+18:45:28 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:28# left segments: 2
+18:45:28# right segments: 0
+
+18:45:28# left segments: 2
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.3333333333333335
+18:45:28 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:28# left segments: 2
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.29565217391304355
+18:45:28 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:28# left segments: 3
+18:45:28# right segments: 1
+
+18:45:28 slope difference0: 0.09502692429521709
+18:45:28 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:29# left segments: 1
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.0
+18:45:29 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:29# left segments: 3
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.17913121361397222
+18:45:29 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:29# left segments: 1
+18:45:29# right segments: 0
+
+18:45:29# left segments: 1
+18:45:29# right segments: 0
+
+18:45:29# left segments: 3
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.11553273427471122
+18:45:29 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:29# left segments: 3
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.3016894609814962
+18:45:29 new steering: 65, stabilized steering: 61, difference: 4 
+18:45:29# left segments: 2
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.1848591549295775
+18:45:29 new steering: 55, stabilized steering: 56, difference: 1 
+18:45:29# left segments: 2
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.429553264604811
+18:45:29 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:29# left segments: 2
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.4530274430085668
+18:45:29 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:29# left segments: 1
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.0
+18:45:29 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:29# left segments: 1
+18:45:29# right segments: 1
+
+18:45:29 slope difference0: 0.0
+18:45:29 new steering: 53, stabilized steering: 53, difference: 0 
+18:45:29# left segments: 0
+18:45:29# right segments: 0
+
+18:45:30# left segments: 1
+18:45:30# right segments: 1
+
+18:45:30 slope difference0: 0.0
+18:45:30 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:30# left segments: 2
+18:45:30# right segments: 0
+
+18:45:30# left segments: 2
+18:45:30# right segments: 1
+
+18:45:30 slope difference0: 0.21818181818181803
+18:45:30 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:30# left segments: 3
+18:45:30# right segments: 1
+
+18:45:30 slope difference0: 0.08771929824561409
+18:45:30 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:30# left segments: 2
+18:45:30# right segments: 1
+
+18:45:30 slope difference0: 0.31835205992509374
+18:45:30 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:30# left segments: 2
+18:45:30# right segments: 0
+
+18:45:30# left segments: 2
+18:45:30# right segments: 0
+
+18:45:30# left segments: 1
+18:45:30# right segments: 0
+
+18:45:30# left segments: 2
+18:45:30# right segments: 0
+
+18:45:30# left segments: 2
+18:45:30# right segments: 0
+
+18:45:30# left segments: 2
+18:45:30# right segments: 1
+
+18:45:30 slope difference0: 0.3754940711462451
+18:45:30 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:30# left segments: 2
+18:45:30# right segments: 0
+
+18:45:30# left segments: 4
+18:45:30# right segments: 1
+
+18:45:30 slope difference0: 0.21531100478468912
+18:45:31 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:31# left segments: 3
+18:45:31# right segments: 0
+
+18:45:31# left segments: 2
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.31835205992509374
+18:45:31 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:31# left segments: 2
+18:45:31# right segments: 0
+
+18:45:31# left segments: 3
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.11119347664936985
+18:45:31 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:31# left segments: 3
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.5996573386636208
+18:45:31 new steering: 58, stabilized steering: 58, difference: 0 
+18:45:31# left segments: 2
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.35982008995502235
+18:45:31 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:31# left segments: 2
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.35064935064935066
+18:45:31 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:31# left segments: 2
+18:45:31# right segments: 0
+
+18:45:31# left segments: 2
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.3659711075441412
+18:45:31 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:31# left segments: 3
+18:45:31# right segments: 1
+
+18:45:31 slope difference0: 0.14383561643835607
+18:45:31 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:32# left segments: 1
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.0
+18:45:32 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:32# left segments: 1
+18:45:32# right segments: 0
+
+18:45:32# left segments: 1
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.0
+18:45:32 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:32# left segments: 1
+18:45:32# right segments: 0
+
+18:45:32# left segments: 2
+18:45:32# right segments: 0
+
+18:45:32# left segments: 2
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.4759725400457666
+18:45:32 new steering: 58, stabilized steering: 58, difference: 0 
+18:45:32# left segments: 3
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.09502692429521709
+18:45:32 new steering: 56, stabilized steering: 56, difference: 0 
+18:45:32# left segments: 1
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.0
+18:45:32 new steering: 54, stabilized steering: 54, difference: 0 
+18:45:32# left segments: 1
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.0
+18:45:32 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:32# left segments: 2
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.4401408450704225
+18:45:32 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:32# left segments: 2
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.165631469979296
+18:45:32 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:32# left segments: 1
+18:45:32# right segments: 1
+
+18:45:32 slope difference0: 0.0
+18:45:32 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:33# left segments: 1
+18:45:33# right segments: 0
+
+18:45:33# left segments: 2
+18:45:33# right segments: 1
+
+18:45:33 slope difference0: 0.17948717948717952
+18:45:33 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:33# left segments: 1
+18:45:33# right segments: 0
+
+18:45:33# left segments: 2
+18:45:33# right segments: 1
+
+18:45:33 slope difference0: 0.3418262383288495
+18:45:33 new steering: 57, stabilized steering: 57, difference: 0 
+18:45:33# left segments: 1
+18:45:33# right segments: 1
+
+18:45:33 slope difference0: 0.0
+18:45:33 new steering: 55, stabilized steering: 55, difference: 0 
+18:45:33# left segments: 2
+18:45:33# right segments: 0
+
+18:45:33# left segments: 1
+18:45:33# right segments: 0
+

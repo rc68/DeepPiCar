@@ -1,0 +1,493 @@
+19:00:14 slope: 1.9629629629629604
+19:00:14 slope: 3.806451612903224
+19:00:14 slope: -6.777777777777782
+19:00:14 slope: -2.6333333333333355
+19:00:14 slope: 1.9999999999999973
+19:00:14# left segments: 2
+19:00:14# right segments: 2
+
+19:00:14 slope difference0: 0.0
+19:00:14 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:14 slope: -7.153846153846166
+19:00:14 slope: 3.7741935483870965
+19:00:14 slope: 1.9655172413793098
+19:00:14 slope: -3.285714285714284
+19:00:14 slope: -2.6315789473684226
+19:00:14# left segments: 1
+19:00:14# right segments: 1
+
+19:00:14 slope difference0: 0.0
+19:00:14 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 3.838709677419354
+19:00:15 slope: 1.899999999999998
+19:00:15 slope: -7.333333333333358
+19:00:15 slope: -2.5714285714285694
+19:00:15 slope: 1.9565217391304326
+19:00:15# left segments: 2
+19:00:15# right segments: 2
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 1.9655172413793098
+19:00:15 slope: 3.7692307692307674
+19:00:15 slope: -6.50000000000002
+19:00:15 slope: -2.6333333333333355
+19:00:15# left segments: 1
+19:00:15# right segments: 1
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 3.806451612903224
+19:00:15 slope: 1.9655172413793098
+19:00:15 slope: -6.50000000000002
+19:00:15 slope: -2.733333333333332
+19:00:15# left segments: 1
+19:00:15# right segments: 1
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 1.970588235294117
+19:00:15 slope: 3.8064516129032224
+19:00:15 slope: -6.50000000000002
+19:00:15 slope: -2.600000000000002
+19:00:15 slope: 1.9666666666666661
+19:00:15 slope: -8.57142857142861
+19:00:15# left segments: 2
+19:00:15# right segments: 2
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 3.7272727272727244
+19:00:15 slope: 1.9799999999999995
+19:00:15 slope: -3.0999999999999943
+19:00:15 slope: 1.9999999999999996
+19:00:15 slope: 4.000000000000008
+19:00:15# left segments: 2
+19:00:15# right segments: 2
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 1.9666666666666661
+19:00:15 slope: 3.838709677419354
+19:00:15 slope: -7.181818181818164
+19:00:15 slope: -2.6153846153846154
+19:00:15 slope: -3.3076923076923075
+19:00:15# left segments: 1
+19:00:15# right segments: 1
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 2.0000000000000004
+19:00:15 slope: 3.7741935483870965
+19:00:15 slope: -6.50000000000002
+19:00:15 slope: -3.0999999999999943
+19:00:15 slope: 2.057142857142853
+19:00:15# left segments: 2
+19:00:15# right segments: 2
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 95, stabilized steering: 95, difference: 0 
+19:00:15 slope: 1.972222222222224
+19:00:15 slope: 3.806451612903224
+19:00:15 slope: -7.2307692307692415
+19:00:15 slope: -2.5714285714285694
+19:00:15 slope: 1.9655172413793098
+19:00:15# left segments: 2
+19:00:15# right segments: 2
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 3.774193548387095
+19:00:15 slope: 2.0638297872340425
+19:00:15 slope: -2.733333333333332
+19:00:15 slope: -7.666666666666655
+19:00:15 slope: 2.0540540540540566
+19:00:15# left segments: 2
+19:00:15# right segments: 2
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 95, stabilized steering: 95, difference: 0 
+19:00:15 slope: 1.9655172413793098
+19:00:15 slope: -6.50000000000002
+19:00:15 slope: 3.774193548387095
+19:00:15 slope: -2.5714285714285694
+19:00:15 slope: -8.333333333333321
+19:00:15# left segments: 1
+19:00:15# right segments: 1
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:15 slope: 3.8000000000000016
+19:00:15 slope: -7.153846153846166
+19:00:15 slope: 1.9666666666666661
+19:00:15 slope: -2.7499999999999987
+19:00:15 slope: 3.857142857142841
+19:00:15# left segments: 1
+19:00:15# right segments: 1
+
+19:00:15 slope difference0: 0.0
+19:00:15 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 1.9833333333333336
+19:00:16 slope: 3.8064516129032224
+19:00:16 slope: -7.333333333333358
+19:00:16 slope: -2.6153846153846154
+19:00:16 slope: -3.266666666666665
+19:00:16# left segments: 1
+19:00:16# right segments: 1
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 1.9666666666666661
+19:00:16 slope: 3.8064516129032224
+19:00:16 slope: -7.09090909090907
+19:00:16 slope: -2.999999999999993
+19:00:16# left segments: 1
+19:00:16# right segments: 1
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: -6.999999999999978
+19:00:16 slope: 3.7599999999999927
+19:00:16 slope: 1.9565217391304355
+19:00:16 slope: -2.8076923076923075
+19:00:16 slope: 2.0000000000000013
+19:00:16 slope: 4.200000000000016
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 1.9666666666666661
+19:00:16 slope: 3.8064516129032224
+19:00:16 slope: -7.222222222222247
+19:00:16 slope: -2.600000000000002
+19:00:16 slope: 1.9047619047619004
+19:00:16 slope: -3.230769230769241
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 3.774193548387095
+19:00:16 slope: 1.9666666666666661
+19:00:16 slope: -6.50000000000002
+19:00:16 slope: -2.600000000000002
+19:00:16 slope: -3.3076923076923173
+19:00:16# left segments: 1
+19:00:16# right segments: 1
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 3.7741935483870965
+19:00:16 slope: 1.9666666666666661
+19:00:16 slope: -6.777777777777807
+19:00:16 slope: -3.083333333333328
+19:00:16# left segments: 1
+19:00:16# right segments: 1
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 3.806451612903224
+19:00:16 slope: 1.9666666666666661
+19:00:16 slope: -7.333333333333358
+19:00:16 slope: -2.733333333333332
+19:00:16 slope: 1.9999999999999967
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 1.9655172413793098
+19:00:16 slope: 3.8064516129032224
+19:00:16 slope: -7.09090909090907
+19:00:16 slope: -2.6153846153846154
+19:00:16 slope: -3.333333333333334
+19:00:16# left segments: 1
+19:00:16# right segments: 1
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 3.806451612903224
+19:00:16 slope: 1.9655172413793098
+19:00:16 slope: -2.772727272727274
+19:00:16 slope: -8.222222222222207
+19:00:16 slope: 1.9999999999999996
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 1.9787234042553166
+19:00:16 slope: 3.8064516129032224
+19:00:16 slope: -3.083333333333328
+19:00:16 slope: 1.9833333333333336
+19:00:16 slope: -2.625000000000003
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 1.9629629629629604
+19:00:16 slope: 3.806451612903224
+19:00:16 slope: -6.888888888888914
+19:00:16 slope: -2.6153846153846154
+19:00:16 slope: 2.0000000000000013
+19:00:16 slope: -3.266666666666669
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:16 slope: 3.806451612903224
+19:00:16 slope: 1.9655172413793098
+19:00:16 slope: -6.50000000000002
+19:00:16 slope: -2.733333333333332
+19:00:16 slope: 1.9999999999999913
+19:00:16# left segments: 2
+19:00:16# right segments: 2
+
+19:00:16 slope difference0: 0.0
+19:00:16 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 1.9666666666666661
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: -7.285714285714269
+19:00:17 slope: -2.6153846153846154
+19:00:17 slope: -3.285714285714284
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 2.0425531914893624
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: -6.777777777777807
+19:00:17 slope: -2.75
+19:00:17 slope: 2.055555555555552
+19:00:17# left segments: 2
+19:00:17# right segments: 2
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 95, stabilized steering: 95, difference: 0 
+19:00:17 slope: 1.970588235294117
+19:00:17 slope: -7.181818181818164
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: -2.857142857142862
+19:00:17 slope: 1.9666666666666661
+19:00:17 slope: -2.6071428571428554
+19:00:17# left segments: 2
+19:00:17# right segments: 2
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 1.9666666666666661
+19:00:17 slope: 3.7999999999999927
+19:00:17 slope: -7.111111111111135
+19:00:17 slope: -3.083333333333328
+19:00:17 slope: -2.6000000000000063
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 1.9655172413793098
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: -6.888888888888914
+19:00:17 slope: -2.7499999999999987
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: -7.09090909090907
+19:00:17 slope: 1.9655172413793098
+19:00:17 slope: -2.944444444444446
+19:00:17 slope: -2.92857142857143
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 3.774193548387095
+19:00:17 slope: -6.50000000000002
+19:00:17 slope: 1.9655172413793098
+19:00:17 slope: -2.857142857142862
+19:00:17 slope: -8.428571428571471
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 1.970588235294117
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: -6.888888888888914
+19:00:17 slope: -2.6071428571428554
+19:00:17 slope: 1.9833333333333336
+19:00:17# left segments: 2
+19:00:17# right segments: 2
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: 1.9642857142857144
+19:00:17 slope: -7.181818181818164
+19:00:17 slope: -2.772727272727274
+19:00:17 slope: 1.9999999999999962
+19:00:17# left segments: 2
+19:00:17# right segments: 2
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 3.741935483870966
+19:00:17 slope: 1.959999999999999
+19:00:17 slope: -7.153846153846166
+19:00:17 slope: -3.0999999999999943
+19:00:17 slope: 2.000000000000009
+19:00:17# left segments: 2
+19:00:17# right segments: 2
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 3.774193548387095
+19:00:17 slope: -7.399999999999983
+19:00:17 slope: 1.9666666666666661
+19:00:17 slope: -2.791666666666671
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:17 slope: 3.806451612903224
+19:00:17 slope: 1.9655172413793098
+19:00:17 slope: -2.600000000000002
+19:00:17 slope: -6.777777777777807
+19:00:17 slope: -3.3076923076923173
+19:00:17# left segments: 1
+19:00:17# right segments: 1
+
+19:00:17 slope difference0: 0.0
+19:00:17 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.806451612903224
+19:00:18 slope: -6.777777777777807
+19:00:18 slope: 1.9666666666666661
+19:00:18 slope: -2.6153846153846154
+19:00:18# left segments: 1
+19:00:18# right segments: 1
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.7741935483870965
+19:00:18 slope: 1.9565217391304355
+19:00:18 slope: -7.09090909090907
+19:00:18 slope: -2.600000000000002
+19:00:18 slope: 1.9833333333333336
+19:00:18# left segments: 2
+19:00:18# right segments: 2
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.838709677419354
+19:00:18 slope: 1.9655172413793098
+19:00:18 slope: -7.181818181818164
+19:00:18 slope: -3.083333333333328
+19:00:18 slope: 2.0000000000000044
+19:00:18# left segments: 2
+19:00:18# right segments: 2
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.806451612903224
+19:00:18 slope: -7.222222222222247
+19:00:18 slope: 1.9642857142857144
+19:00:18 slope: 2.0000000000000053
+19:00:18# left segments: 2
+19:00:18# right segments: 2
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: -6.66666666666667
+19:00:18 slope: 3.806451612903224
+19:00:18 slope: 1.9642857142857144
+19:00:18 slope: -2.772727272727274
+19:00:18 slope: 2.0000000000000053
+19:00:18# left segments: 2
+19:00:18# right segments: 2
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 1.9655172413793098
+19:00:18 slope: 3.774193548387095
+19:00:18 slope: -7.222222222222247
+19:00:18 slope: -3.083333333333328
+19:00:18 slope: -2.6000000000000063
+19:00:18# left segments: 1
+19:00:18# right segments: 1
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.806451612903224
+19:00:18 slope: 1.9772727272727277
+19:00:18 slope: 2.0000000000000027
+19:00:18 slope: -2.600000000000002
+19:00:18# left segments: 2
+19:00:18# right segments: 2
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 1.9655172413793098
+19:00:18 slope: 3.838709677419354
+19:00:18 slope: -7.181818181818164
+19:00:18 slope: -2.7499999999999987
+19:00:18# left segments: 1
+19:00:18# right segments: 1
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.8064516129032224
+19:00:18 slope: 1.982758620689655
+19:00:18 slope: -6.625000000000026
+19:00:18 slope: -2.8076923076923075
+19:00:18# left segments: 1
+19:00:18# right segments: 1
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: -7.222222222222247
+19:00:18 slope: 3.806451612903224
+19:00:18 slope: 1.9772727272727277
+19:00:18 slope: -3.285714285714284
+19:00:18 slope: 1.9655172413793098
+19:00:18 slope: -2.6499999999999995
+19:00:18# left segments: 2
+19:00:18# right segments: 2
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 1.9666666666666661
+19:00:18 slope: -7.454545454545474
+19:00:18 slope: 3.8064516129032224
+19:00:18 slope: -2.733333333333332
+19:00:18# left segments: 1
+19:00:18# right segments: 1
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:18 slope: 3.7741935483870965
+19:00:18 slope: 1.982758620689655
+19:00:18 slope: -6.66666666666667
+19:00:18 slope: -2.7307692307692326
+19:00:18# left segments: 1
+19:00:18# right segments: 1
+
+19:00:18 slope difference0: 0.0
+19:00:18 new steering: 94, stabilized steering: 94, difference: 0 
+19:00:19 slope: 3.8064516129032224
+19:00:19 slope: 1.954545454545456
+19:00:19 slope: -6.777777777777807
+19:00:19 slope: -2.6785714285714213
+19:00:19 slope: 1.9830508474576263
+19:00:19# left segments: 2
+19:00:19# right segments: 2
+
+19:00:19 slope difference0: 0.0
+19:00:19 new steering: 94, stabilized steering: 94, difference: 0 

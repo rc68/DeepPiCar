@@ -1,0 +1,510 @@
+18:46:25# left segments: 0
+18:46:25# right segments: 2
+
+18:46:25# left segments: 0
+18:46:25# right segments: 1
+
+18:46:25# left segments: 0
+18:46:25# right segments: 1
+
+18:46:25# left segments: 0
+18:46:25# right segments: 2
+
+18:46:25# left segments: 0
+18:46:25# right segments: 2
+
+18:46:25# left segments: 0
+18:46:25# right segments: 1
+
+18:46:25# left segments: 0
+18:46:25# right segments: 1
+
+18:46:25# left segments: 0
+18:46:25# right segments: 1
+
+18:46:25# left segments: 0
+18:46:25# right segments: 2
+
+18:46:25# left segments: 0
+18:46:25# right segments: 1
+
+18:46:25# left segments: 0
+18:46:25# right segments: 2
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 2
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 2
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 2
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 2
+
+18:46:26# left segments: 0
+18:46:26# right segments: 1
+
+18:46:26# left segments: 0
+18:46:26# right segments: 2
+
+18:46:27# left segments: 0
+18:46:27# right segments: 1
+
+18:46:27# left segments: 0
+18:46:27# right segments: 1
+
+18:46:27# left segments: 0
+18:46:27# right segments: 1
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 2
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:27# left segments: 0
+18:46:27# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:28# left segments: 0
+18:46:28# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 0
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 1
+
+18:46:29# left segments: 0
+18:46:29# right segments: 2
+
+18:46:30# left segments: 0
+18:46:30# right segments: 2
+
+18:46:30# left segments: 0
+18:46:30# right segments: 2
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 2
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:30# left segments: 0
+18:46:30# right segments: 2
+
+18:46:30# left segments: 0
+18:46:30# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 2
+
+18:46:31# left segments: 0
+18:46:31# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 2
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 2
+
+18:46:32# left segments: 0
+18:46:32# right segments: 1
+
+18:46:32# left segments: 0
+18:46:32# right segments: 2
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 2
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 2
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 2
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 2
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:33# left segments: 0
+18:46:33# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 2
+
+18:46:34# left segments: 0
+18:46:34# right segments: 2
+
+18:46:34# left segments: 0
+18:46:34# right segments: 2
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 2
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 2
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:34# left segments: 0
+18:46:34# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 2
+
+18:46:35# left segments: 0
+18:46:35# right segments: 2
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 2
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 2
+
+18:46:35# left segments: 0
+18:46:35# right segments: 1
+
+18:46:35# left segments: 0
+18:46:35# right segments: 2
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 2
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 2
+
+18:46:36# left segments: 0
+18:46:36# right segments: 2
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 2
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:36# left segments: 0
+18:46:36# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 2
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 2
+
+18:46:37# left segments: 0
+18:46:37# right segments: 2
+
+18:46:37# left segments: 0
+18:46:37# right segments: 2
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:37# left segments: 0
+18:46:37# right segments: 1
+
+18:46:38# left segments: 0
+18:46:38# right segments: 1
+
