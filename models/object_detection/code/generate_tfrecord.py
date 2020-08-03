@@ -50,7 +50,7 @@ def split(df, group):
 
 
 def create_tf_example(group, path, label_map):
-    with tf.gfile.GFile(os.path.join(path, "{}".format(group.filename)), "rb") as fid:
+    with tf.compat.v1.gfile.GFile(os.path.join(path, "{}".format(group.filename)), "rb") as fid:
         encoded_jpg = fid.read()
     encoded_jpg_io = io.BytesIO(encoded_jpg)
     image = Image.open(encoded_jpg_io)
@@ -80,8 +80,8 @@ def create_tf_example(group, path, label_map):
         )
         classes.append(class_index)
 
-    tf_example = tf.train.Example(
-        features=tf.train.Features(
+    tf_example = tf.compat.v1.train.Example(
+        features=tf.compat.v1.train.Features(
             feature={
                 "image/height": dataset_util.int64_feature(height),
                 "image/width": dataset_util.int64_feature(width),
